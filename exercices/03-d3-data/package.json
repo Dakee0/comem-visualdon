@@ -9,11 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@rollup/plugin-dsv": "^3.0.4",
     "vite": "^5.0.12"
   },
   "dependencies": {
     "d3-array": "^3.2.4",
     "d3-fetch": "^3.0.1",
-    "d3-selection": "^3.0.0"
+    "d3-selection": "^3.0.0",
+    "json-server": "^1.0.0-alpha.23"
   }
 }
